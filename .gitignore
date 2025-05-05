@@ -1,3 +1,9 @@
+# Ignore DuckDB database files
+*.duckdb
+
+# Ignore Parquet files
+*.parquet
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
